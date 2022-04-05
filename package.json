@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "document-write-html": "^0.2.3",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "readline-sync": "^1.4.10"
+  }
+}
